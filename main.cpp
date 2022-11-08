@@ -4,6 +4,22 @@
 #include "Sculptor.h"
 
 int main(void){
+	
+/*Sculptor teste(10,10,10);
+  
+  teste.setColor(0.0,0.5,0.0,0.25); // cor_verde_escuro
+  teste.putBox(1,4,1,4,1,4);
+  teste.cutBox(2,3,2,3,2,3);
+  teste.setColor(1.0,1.0,1.0,1.0); // cor_branca
+  teste.putVoxel(1,1,2);
+  teste.cutVoxel(1,1,2);
+  teste.setColor(1.0,0.0,0.0,0.5); // cor_vermelho
+  teste.putSphere(8,8,8,2);
+  teste.cutSphere(7,7,7,1);
+  teste.putEllipsoid(6,2,6,2,6,2);
+  teste.cutEllipsoid(1,2,1,2,1,2);
+  
+  teste.writeOFF((const char*)"teste.off");*/ 
 
   Sculptor Barrettao(170,170,170);
 
